@@ -1,6 +1,0 @@
-.venv
-env
-.dockerignore
-Dockerfile
-Dockerfile.prod
-
