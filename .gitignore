@@ -18,3 +18,9 @@ env/
 
 # Docker
 .dockerignore
+
+project/.venv/
+project/.venv
+
+*/.venv
+*.venv
