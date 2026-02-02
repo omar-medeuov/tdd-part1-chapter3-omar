@@ -24,3 +24,6 @@ project/.venv
 
 */.venv
 *.venv
+
+project/htmlcov
+project/.coverage
